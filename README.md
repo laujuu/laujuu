@@ -28,7 +28,7 @@
 
 ### Analytics ⚙️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laujuu&show_icons=false&theme=radical)                  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laujuu&show_icons=true&theme=radical&count_private=true)                  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laujuu&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
