@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/anime-generator-80a51.appspot.com/o/banner%20(3).png?alt=media&token=22d6ca8d-6941-49b7-847d-be01c0d96782)](https://github.com/laujuu)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/kkkrying.appspot.com/o/banner.png?alt=media&token=5a9c710b-1702-4a3d-9d1e-41ac87d3f765)](https://github.com/laujuu)
 
 ## Hello, welcome to my GitHub!  👋
 
