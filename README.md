@@ -26,5 +26,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laujuu&show_icons=true&theme=radical&count_private=true)                  
 
-### Let's connect 😊
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laura-julia-pires/)
