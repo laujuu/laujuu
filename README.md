@@ -22,7 +22,5 @@
  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
-### Analytics ⚙️
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laujuu&show_icons=true&theme=radical&count_private=true)                  
+           
 
