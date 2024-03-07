@@ -11,8 +11,6 @@
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/kkkrying.appspot.com/o/banner%20(1).png?alt=media&token=d8313eba-add5-4882-be26-6f4826d1a225)](https://github.com/laujuu)
-
 ## Hello, welcome to my GitHub!  👋
 
 ### Languages & Tools 🪛
